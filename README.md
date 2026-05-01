@@ -74,6 +74,7 @@ Missing values were handled by:
 
 <img width="791" height="542" alt="image" src="https://github.com/user-attachments/assets/2894c2d6-1e06-4a3a-9f75-8146a74460ac" />
 
+
 Exploratory analysis included:
 - Event frequency distributions
 - Relationship between time spent and number of actions
