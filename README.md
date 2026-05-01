@@ -35,7 +35,7 @@ We compare several models including Logistic Regression, Decision Tree, and Rand
 
 ### Size
 - ~1M+ event-level records (large-scale time-series data)
-- Split: Condensed into session-level dataset for modeling
+- Condensed into session-level dataset for modeling
 
 ---
 
