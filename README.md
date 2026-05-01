@@ -18,9 +18,9 @@ We compare several models including Logistic Regression, Decision Tree, and Rand
 
 ## Data
 
-- `train.csv`: Time-series log of student interactions - size is 4.4 GB
-- `train_labels.csv`: Target labels (correct/incorrect answers) - size is 9.5 MB
-- `test.csv`: Test set for prediction - size is 644.4 KB
+- `train.csv`: Time-series log of student interactions 
+- `train_labels.csv`: Target labels (correct/incorrect answers) 
+- `test.csv`: Test set for prediction
 
 ### Structure
 - Each row = one user interaction event
@@ -34,7 +34,7 @@ We compare several models including Logistic Regression, Decision Tree, and Rand
 
 ### Size
 - ~1M+ event-level records (large-scale time-series data)
-- Condensed into session-level dataset for modeling
+- Split: Condensed into session-level dataset for modeling
 
 ---
 
