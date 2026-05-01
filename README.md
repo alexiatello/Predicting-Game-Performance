@@ -60,6 +60,19 @@ Missing values were handled by:
 
 <img width="887" height="417" alt="image" src="https://github.com/user-attachments/assets/77ca42e3-a373-447d-b572-d51dd1a39479" />
 
+<img width="892" height="402" alt="image" src="https://github.com/user-attachments/assets/a766d264-6921-4b75-805c-efba59004514" />
+
+<img width="843" height="563" alt="image" src="https://github.com/user-attachments/assets/f1bd9d53-fdf2-4b14-baa3-97d08acda8b5" />
+
+<img width="865" height="562" alt="image" src="https://github.com/user-attachments/assets/7e45a9e4-433f-4950-bb58-5378edfe7e09" />
+
+<img width="861" height="522" alt="image" src="https://github.com/user-attachments/assets/29c22344-4ce0-488f-8a9e-cf89615e10ba" />
+
+<img width="872" height="181" alt="image" src="https://github.com/user-attachments/assets/9fc5281b-588a-44c9-8ca0-427c6f4d25ef" />
+
+<img width="870" height="522" alt="image" src="https://github.com/user-attachments/assets/1e4f7cd8-5637-47c1-94f8-1da6cbe9db4e" />
+
+<img width="791" height="542" alt="image" src="https://github.com/user-attachments/assets/2894c2d6-1e06-4a3a-9f75-8146a74460ac" />
 
 Exploratory analysis included:
 - Event frequency distributions
