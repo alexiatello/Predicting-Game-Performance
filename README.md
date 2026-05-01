@@ -58,6 +58,9 @@ Missing values were handled by:
 
 ## Data Visualization
 
+<img width="887" height="417" alt="image" src="https://github.com/user-attachments/assets/77ca42e3-a373-447d-b572-d51dd1a39479" />
+
+
 Exploratory analysis included:
 - Event frequency distributions
 - Relationship between time spent and number of actions
