@@ -1,7 +1,7 @@
 # Predicting Student Performance from Game Play (Kaggle Project)
 
 ## Summary: 
-This repository contains Machine Learning algorithms for data from a Game Play Performance Kaggle, focusing on feature engineering principles focused on features from game play sessions. challenge https://www.kaggle.com/competitions/predict-student-performance-from-game-play/data
+This repository contains Machine Learning algorithms for data from a Game Play Performance Kaggle, focusing on feature engineering principles focused on features from game play sessions. https://www.kaggle.com/competitions/predict-student-performance-from-game-play/data
 
 ## Overview
 
