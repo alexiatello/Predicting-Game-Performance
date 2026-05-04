@@ -1,17 +1,12 @@
 # Predicting Student Performance from Game Play (Kaggle Project)
 
 ## Summary: 
-This repository contains Machine Learning algorithms for data from a Game Play Performance Kaggle, focusing on feature engineering principles for features from game play sessions. https://www.kaggle.com/competitions/predict-student-performance-from-game-play/data
+This repository uses Machine Learning principles for data from a Game Play Performance Kaggle challenge, focusing on feature engineering principles for features from game play sessions. https://www.kaggle.com/competitions/predict-student-performance-from-game-play/data
 
 ## Overview
 
-This repository contains a machine learning approach to the Kaggle competition *"Predict Student Performance from Game Play"*.
-
-The goal is to predict whether a student will answer a question correctly based on time-series interaction logs from an educational game environment. Each record represents user activity such as navigation events, hover behavior, room coordinates, and time spent on actions.
-
-In this project, the problem is approached as a **classification task at the session level**, where feature engineering summarizes student behavior across the gameplay sessions.
-
-We compare several models including Logistic Regression, Decision Tree, and Random Forest to evaluate the predictive performance. Logistic Regression was found to be the best model, sitting at a little over 80%.
+This repository contains a machine learning approach to the Kaggle competition *"Predict Student Performance from Game Play"*. The goal is to predict whether a student will answer a question correctly based on time-series interaction logs from an educational game environment. Each record represents user activity such as navigation events, hover behavior, room coordinates, and time spent on actions. In this project, the problem is approached as a **classification task at the session level**, where feature engineering summarizes student behavior across the gameplay sessions.
+Several models including Logistic Regression, Decision Tree, and Random Forest are compared and used to evaluate the predictive performance. Logistic Regression was found to be the best model, sitting at a little over 80%.
 
 ---
 
