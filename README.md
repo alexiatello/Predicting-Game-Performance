@@ -67,8 +67,6 @@ Missing values were handled by:
 
 <img width="872" height="181" alt="image" src="https://github.com/user-attachments/assets/9fc5281b-588a-44c9-8ca0-427c6f4d25ef" />
 
-<img width="870" height="522" alt="image" src="https://github.com/user-attachments/assets/1e4f7cd8-5637-47c1-94f8-1da6cbe9db4e" />
-
 <img width="791" height="542" alt="image" src="https://github.com/user-attachments/assets/2894c2d6-1e06-4a3a-9f75-8146a74460ac" />
 
 
