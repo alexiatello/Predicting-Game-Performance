@@ -59,9 +59,10 @@ Missing values were handled by:
 
 ## Data Visualization
 
-<img width="887" height="417" alt="image" src="https://github.com/user-attachments/assets/77ca42e3-a373-447d-b572-d51dd1a39479" />
+<img width="820" height="561" alt="image" src="https://github.com/user-attachments/assets/a902e56f-5a4e-462d-ada7-4de05c6d8be5" />
 
-<img width="892" height="402" alt="image" src="https://github.com/user-attachments/assets/a766d264-6921-4b75-805c-efba59004514" />
+<img width="917" height="568" alt="image" src="https://github.com/user-attachments/assets/b4d83ebc-14e2-48cc-a06d-2b97dcd3de29" />
+
 
 <img width="843" height="563" alt="image" src="https://github.com/user-attachments/assets/f1bd9d53-fdf2-4b14-baa3-97d08acda8b5" />
 
