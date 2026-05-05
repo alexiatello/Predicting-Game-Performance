@@ -29,8 +29,8 @@ Several models including Logistic Regression, Decision Tree, and Random Forest a
   - level information
 
 ### Size
-- ~1M+ event-level records (large-scale time-series data)
-- Condensed into session-level dataset for modeling
+- 
+- 
 
 ---
 
