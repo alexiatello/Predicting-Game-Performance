@@ -29,8 +29,9 @@ Several models including Logistic Regression, Decision Tree, and Random Forest a
   - level information
 
 ### Size
-- 
-- 
+- 20 feature columns for the project (43 in total from the data set)
+- 100,000 rows for the project (over 200,000 in total from the data set)
+- 80% training set and 20% testing set
 
 ---
 
